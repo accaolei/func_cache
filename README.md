@@ -1,6 +1,7 @@
 ## func_cache
 
 在python项目中基于redis-py对函数进行缓存
+只支持python3.5以上的版本
 
 
 
